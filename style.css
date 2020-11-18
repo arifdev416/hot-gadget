@@ -1,0 +1,62 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.container{
+    margin-bottom:100px;
+}
+.bg-image-1{
+    background-image: url("images/bg-2.png");
+    background-repeat: no-repeat;
+    background-position: left bottom;
+}
+.bg-image-2{
+    background-image: url("images/bg-1.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.buy-now-btn{
+    color:white;
+    background-color: black;
+    padding: 5px 10px;
+    border:none;
+    border-radius: 5px;
+}
+.See-All-link{
+    color:orange;
+    font-size: 20px;
+}
+.price{
+    color:black;
+}
+.card{
+    border: none;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+border:none;
+background-color: white;
+}
+.card-body-text {
+    text-align: center;
+}
+.cat1{
+    border:none;
+    box-shadow: 5px 5px 10px lightgray;
+    padding: 50px;
+    text-align: center;
+}
+.cat1 h6{
+    padding-top: 20px ;
+}
+.cat-2{
+    padding-bottom: 20px;
+}
+.categories{
+    text-align: center;
+    padding-bottom: 50px;
+    
+}
